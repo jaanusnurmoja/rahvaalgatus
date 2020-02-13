@@ -2,13 +2,12 @@
 	"name": "@rahvaalgatus/web-app",
 	"version": "0.0.0",
 	"private": true,
-
 	"dependencies": {
 		"pikaday": "",
 		"promise": "",
+		"watchify": "^3.11.1",
 		"whatwg-fetch": ""
 	},
-
 	"devDependencies": {
 		"browserify": "",
 		"watchify": "",
