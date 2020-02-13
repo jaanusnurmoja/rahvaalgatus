@@ -2,7 +2,6 @@
 	"name": "@rahvaalgatus/web",
 	"version": "0.0.0",
 	"private": true,
-
 	"dependencies": {
 		"qs": "",
 		"express": "",
@@ -53,7 +52,6 @@
 		"undersign": "git+https://github.com/moll/js-undersign.git#27c2bdab5968140ee38852c68a6cf82d62a86366",
 		"jsdom": ">= 9 < 10"
 	},
-
 	"devDependencies": {
 		"mocha": ">= 2.1.0 < 3",
 		"co-mocha": ">= 1.1.0 < 2",
@@ -65,12 +63,10 @@
 		"cookie-signature": ">= 1 < 2",
 		"yauzl": "^2.10",
 		"emailjs-mime-parser": "^2.0.7",
-
 		"node-sass": "~4"
 	},
-
-	"engines" : {
+	"engines": {
 		"node": ">= 6.6 < 7",
-		"npm" : ">= 2.7.4 || < 3"
+		"npm": ">= 2.7.4 || < 3"
 	}
 }
