@@ -4,6 +4,7 @@
 	"private": true,
 	"dependencies": {
 		"body-parser": "",
+		"browserify": "^16.5.0",
 		"co": ">= 4 < 5",
 		"co-next": "",
 		"concat-stream": "",
